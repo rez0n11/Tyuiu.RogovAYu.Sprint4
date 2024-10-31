@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RogovAYu.Sprint4.Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RogovAYu.Sprint4.Task0.V20.Lib", "Tyuiu.RogovAYu.Sprint4.Task0.V20.Lib\Tyuiu.RogovAYu.Sprint4.Task0.V20.Lib.csproj", "{991F2BB9-6C6A-41BF-868F-4A5CC479B9E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RogovAYu.Sprint4.Task20.V20", "Tyuiu.RogovAYu.Sprint4.Task20.V20\Tyuiu.RogovAYu.Sprint4.Task20.V20.csproj", "{2765C2C5-168F-45BF-AA21-6B8ACF744521}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.RogovAYu.Sprint4.Task0.V20", "Tyuiu.RogovAYu.Sprint4.Task20.V20\Tyuiu.RogovAYu.Sprint4.Task0.V20.csproj", "{2765C2C5-168F-45BF-AA21-6B8ACF744521}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
